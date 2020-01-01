@@ -16,7 +16,7 @@ class TDA
         {
             T dato;
             Nodo *prox;
-            
+
             Nodo(T info) : dato(info), prox(NULL) {}
         };
 

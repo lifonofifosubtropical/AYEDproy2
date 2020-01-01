@@ -1,4 +1,4 @@
-##Collision Detection 2D
+## Collision Detection 2D
 *Algorithms and Data Structures project, second semester of 2017*
 
 All objects will be received by stdin and added (by `addNode`) with their respective coordinates to the objects list created in main.
